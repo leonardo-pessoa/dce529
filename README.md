@@ -16,14 +16,14 @@ As aulas serão todas ministradas, em sua grande maioria, presencialmente. Aulas
 
 Abaixo segue o planejamento das aulas teóricas. As atividades a serem desenvolvidas nas aulas práticas serão disponibilizadas no decorrer do semestre.
 
-  - **24/05** - Aula 01: Introdução a disciplina DCE529
-  - **25/05** - Aula 02: Conceitos de grafos
-  - **31/05** - Aula 03: Estruturas de dados para representação de grafos
-  - **01/06** - Aula 04: Algoritmos de busca em grafos - Busca em profundidade
-  - **07/06** - Aula 05: Algoritmos de busca em grafos - Busca em largura
-  - **08/06** - Aula 06: Árvore geradora mínima - Algoritmo de Prim
-  - **14/06** - Aula 07: Árvore geradora mínima - Algoritmo de Kruskal
-  - **15/06** - Aula 08: Conexidade em grafos
+  - **24/05** - [Aula 01: Introdução a disciplina DCE529](https://github.com/leonardo-pessoa/dce529/blob/main/aulas/pdf/aula02_conceitos_de_grafos.pdf)
+  - **25/05** - [Aula 02: Conceitos de grafos](https://github.com/leonardo-pessoa/dce529/blob/main/aulas/pdf/aula02_conceitos_de_grafos.pdf)
+  - **31/05** - [Aula 03: Estruturas de dados para representação de grafos](https://github.com/leonardo-pessoa/dce529/blob/main/aulas/pdf/aula02_conceitos_de_grafos.pdf)
+  - **01/06** - [Aula 04: Algoritmos de busca em grafos - Busca em profundidade](https://github.com/leonardo-pessoa/dce529/blob/main/aulas/pdf/aula04_busca_profundidade.pdf)
+  - **07/06** - [Aula 05: Algoritmos de busca em grafos - Busca em largura](https://github.com/leonardo-pessoa/dce529/blob/main/aulas/pdf/aula05_busca_largura.pdf)
+  - **08/06** - [Aula 06: Árvore geradora mínima - Algoritmo de Prim](https://github.com/leonardo-pessoa/dce529/blob/main/aulas/pdf/aula06_prim.pdf)
+  - **14/06** - [Aula 07: Árvore geradora mínima - Algoritmo de Kruskal](https://github.com/leonardo-pessoa/dce529/blob/main/aulas/pdf/aula07_kruskal.pdf)
+  - **15/06** - [Aula 08: Conexidade em grafos](https://github.com/leonardo-pessoa/dce529/blob/main/aulas/pdf/aula08_conectividade.pdf)
   - **21/06** - Aula 09: Dúvidas do trabalho prático 01
   - **22/06** - Aula 10: Caminhos mínimos - Algoritmo de Dijkstra
   - **28/06** - Aula 11: Caminhos mínimos - Algoritmo de Bellman-Ford
