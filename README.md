@@ -25,9 +25,9 @@ Abaixo segue o planejamento das aulas teóricas. As atividades a serem desenvolv
   - **14/06** - [Aula 07: Árvore geradora mínima - Algoritmo de Kruskal](https://github.com/leonardo-pessoa/dce529/blob/main/aulas/pdf/aula07_kruskal.pdf)
   - **15/06** - [Aula 08: Conexidade em grafos](https://github.com/leonardo-pessoa/dce529/blob/main/aulas/pdf/aula08_conectividade.pdf)
   - **21/06** - Aula 09: Dúvidas do trabalho prático 01
-  - **22/06** - Aula 10: Caminhos mínimos - Algoritmo de Dijkstra
-  - **28/06** - Aula 11: Caminhos mínimos - Algoritmo de Bellman-Ford
-  - **29/06** - Aula 12: Ciclos eulerianos e hamiltonianos
+  - **22/06** - [Aula 10: Caminhos mínimos - Algoritmo de Dijkstra](https://github.com/leonardo-pessoa/dce529/blob/main/aulas/pdf/aula10_dijkstra.pdf)
+  - **28/06** - [Aula 11: Caminhos mínimos - Algoritmo de Bellman-Ford](https://github.com/leonardo-pessoa/dce529/blob/main/aulas/pdf/aula11_belman_ford.pdf)
+  - **29/06** - [Aula 12: Ciclos eulerianos e hamiltonianos](https://github.com/leonardo-pessoa/dce529/blob/main/aulas/pdf/aula11_ordenacao_topologica.pdf)
   - **05/07** - Aula 13: Dúvidas para prova 01
   - **06/07** - Aula 14: Prova 01
   - **12/07** - Aula 16: Correção da prova e comentários gerais
